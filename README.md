@@ -13,3 +13,13 @@ The solution was tested in Microsoft Foundry, deployed as a knowledge base, conn
 ## Tools & Technologies
 
 `Azure AI Language` · `Microsoft Foundry` · `Custom Question Answering` · `Azure AI Search` · `Azure Bot Service` · `Telegram Bot` · `Language Understanding` · `Knowledge Base`
+
+## Knowledge Base Coverage
+
+- Clinic hours & working days
+- Online appointment booking
+- Health insurance acceptance
+- Telehealth availability
+- Doctor availability
+- Required documents for appointments
+- Clinic location & directions
