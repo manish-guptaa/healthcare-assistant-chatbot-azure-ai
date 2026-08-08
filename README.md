@@ -38,3 +38,8 @@ The solution was tested in Microsoft Foundry, deployed as a knowledge base, conn
 2. The query is processed by the deployed Azure Bot & Custom Question Answering solution.
 3. Azure AI Language matches the query with the most relevant answer in the structured knowledge base.
 4. The response is returned to the user through Telegram.
+
+## Project Screenshot
+
+### Knowledge Base Testing
+![Knowledge Base Testing](screenshots/test-knowledge-base.png)
