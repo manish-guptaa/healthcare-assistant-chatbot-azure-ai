@@ -9,3 +9,7 @@ The chatbot handles administrative questions such as clinic hours, appointment b
 This project demonstrates a healthcare administrative support chatbot developed using Azure AI Language & Microsoft Foundry. A structured knowledge base was created with multiple question variations so the bot could recognise different user phrasings & return consistent answers to common patient-support queries.
 
 The solution was tested in Microsoft Foundry, deployed as a knowledge base, connected with an Azure Bot resource & demonstrated through Telegram-based interaction.
+
+## Tools & Technologies
+
+`Azure AI Language` · `Microsoft Foundry` · `Custom Question Answering` · `Azure AI Search` · `Azure Bot Service` · `Telegram Bot` · `Language Understanding` · `Knowledge Base`
