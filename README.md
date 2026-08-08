@@ -31,3 +31,10 @@ The solution was tested in Microsoft Foundry, deployed as a knowledge base, conn
 - Deployed the Custom Question Answering knowledge base in Microsoft Foundry
 - Created & configured an Azure Bot resource
 - Demonstrated successful patient-support interactions through Telegram
+
+## How It Works
+
+1. A user submits a healthcare administrative query through Telegram.
+2. The query is processed by the deployed Azure Bot & Custom Question Answering solution.
+3. Azure AI Language matches the query with the most relevant answer in the structured knowledge base.
+4. The response is returned to the user through Telegram.
